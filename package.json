@@ -1,0 +1,12 @@
+{
+  "name": "dsa-hashmaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Steven Wagner",
+  "license": "ISC"
+}
